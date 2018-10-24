@@ -1,0 +1,22 @@
+{
+  "name": "testhapi",
+  "version": "1.0.0",
+  "description": "just learn hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teantea/testHapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teantea/testHapi/issues"
+  },
+  "homepage": "https://github.com/teantea/testHapi#readme",
+  "dependencies": {
+    "hapi": "^13.5.3"
+  }
+}
